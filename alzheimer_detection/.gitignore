@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# Logs
+logs/
+*.log
+
+# Data
+data/raw/
+data/processed/
+
+# Streamlit
+.streamlit/
+
+# TensorBoard
+runs/
+
+# Results
+results/
+
+# Checkpoints
+checkpoints/
+
+# Cache
+.cache/
